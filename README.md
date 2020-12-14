@@ -1,2 +1,2 @@
-# BULLETS-AND-WALLS-1
-BULLETS AND WALLS1
+# p5.play-boilerplate
+Boiler plate for p5.play
